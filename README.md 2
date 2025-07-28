@@ -1,0 +1,40 @@
+#  Fake News Detection
+This project is focused on identifying whether a news article is FAKE or REAL using machine learning and natural language processing (NLP). It utilizes the Fake and Real News Dataset from Kaggle and covers a complete ML pipeline — from data cleaning to web deployment.
+# Colab Link https://colab.research.google.com/drive/1FuFkNeoZ06w2Atu3LSAtBC-syuR_K8Eb#scrollTo=dqVuMWUvyZGu
+
+# Project Summary
+Cleaned and merged real/fake news data
+
+Used NLP techniques: tokenization, stopword removal, and TF-IDF vectorization
+
+Trained ML models like Logistic Regression and SVM
+
+Evaluated using metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
+
+Visualized results with confusion matrix and ROC curve
+
+Deployed an interactive web app using Streamlit
+
+# Technologies Used
+Python
+
+Scikit-learn
+
+Pandas & NumPy
+
+Matplotlib & Seaborn
+
+Streamlit
+
+TfidfVectorizer
+
+Logistic Regression / SVM
+
+# Deliverables
+.py script with clean modular code
+
+Visualizations for model evaluation
+
+Web app (Streamlit) to classify new articles
+
+PDF/Markdown project report (methodology, results, insights)
